@@ -1,0 +1,9 @@
+C:\Users\MehmetPazar\Desktop\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\MehmetPazar\Desktop\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\MehmetPazar\Desktop\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\MehmetPazar\Desktop\Editor\Editor\obj\Debug\Editor.Form1.resources
+C:\Users\MehmetPazar\Desktop\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\MehmetPazar\Desktop\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+C:\Users\MehmetPazar\Desktop\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\MehmetPazar\Desktop\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\MehmetPazar\Desktop\Editor\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
